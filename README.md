@@ -1,7 +1,7 @@
 # Hi there, I'm Buğra Oktay Ateş! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E96F7&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Software+%26+Data+Engineer;Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E96F7&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Software+Engineer;" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -14,43 +14,7 @@ I am a **Computer Engineer** with a growing focus on **data-driven systems**. I 
 - 💼 Working on **visual and text-based data analysis pipelines**
 - 🤝 Collaborating on an **AI graduation project** with **BinBin Company**
 
-## 🛠️ Tech Stack
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Big Data & AI/ML
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Backend Development
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Frontend & Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -63,10 +27,6 @@ I am a **Computer Engineer** with a growing focus on **data-driven systems**. I 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BugraOktay&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Profile Trophy
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BugraOktay&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
-</div>
 
 ## 💼 Professional Experience
 
@@ -108,23 +68,7 @@ I am a **Computer Engineer** with a growing focus on **data-driven systems**. I 
 
 </div>
 
-## 🌟 Fun Fact
 
-```python
-class BugraOktayAtes:
-    def __init__(self):
-        self.name = "Buğra Oktay Ateş"
-        self.role = "Software & Data Engineer"
-        self.languages = ["Turkish", "English"]
-        self.current_focus = ["AI/ML", "Big Data", "Computer Vision"]
-        self.fun_fact = "I love solving complex problems with data-driven solutions!"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🚀")
-
-me = BugraOktayAtes()
-me.say_hi()
-```
 
 ---
 
